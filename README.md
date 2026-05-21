@@ -1,6 +1,16 @@
 # Publishing the dashboard with password protection
 
+**Live URL**: https://amecosolar.github.io/ameco-dashboard/
+**Repo**: https://github.com/amecosolar/ameco-dashboard (public; encrypted HTML is meaningless without the password)
+**Password**: stored locally in `.password` (gitignored, never committed)
+
 This folder publishes an **encrypted** copy of `../dashboard.html` to GitHub Pages. The encrypted page asks for a password in the browser; without it, visitors see only a password prompt — nothing in the underlying HTML reveals the dashboard content.
+
+## Refreshing after the dashboard changes
+1. Run `python3 ../carrier-spam-registration-source/scripts/build_dashboard.py` (rebuilds `../dashboard.html`)
+2. Run `python3 encrypt_dashboard.py` (encrypts → `index.html`)
+3. Open **GitHub Desktop** → ameco-dashboard repo → commit "Refresh" → **Push origin**
+4. Wait ~30-60s. Live URL updates automatically.
 
 ## Files in this folder
 - `encrypt_dashboard.py` — reads `../dashboard.html`, encrypts with AES-256-GCM + PBKDF2 (250k iterations), writes `index.html`
