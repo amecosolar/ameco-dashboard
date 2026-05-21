@@ -1,0 +1,11 @@
+# Lock everything down — only allow these specific files into the repo.
+*
+!index.html
+!.gitignore
+!README.md
+
+# Belt-and-suspenders: explicitly exclude sensitive files
+.password
+encrypt_dashboard.py
+refresh.sh
+dashboard.html
