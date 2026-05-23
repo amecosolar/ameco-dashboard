@@ -1,6 +1,7 @@
 # Lock everything down — only allow these specific files into the repo.
 *
 !index.html
+!team.html
 !.gitignore
 !README.md
 
