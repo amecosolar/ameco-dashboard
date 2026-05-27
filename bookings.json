@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "_meta": {
     "report_id": "00O3r000006rTyXEAU",
@@ -18,3 +19,6 @@
     "Unassigned": 1
   }
 }
+=======
+{"_meta": {"report_id": "00O3r000006rTyXEAU", "report_name": "Leads Booked Today", "generated_at": "2026-05-27 14:40 PT", "source": "Salesforce Lightning report", "total_records": 22}, "booked_today": {"Don Codes": 5, "Clark Mascapac": 4, "Sienna Sepida": 3, "Alfredo Visellas": 2, "Diana Manaligod": 2, "Marketing User": 2, "Richard Tamoush": 2, "Carla Espinoza": 1, "Unassigned": 1}}
+>>>>>>> 529f309d437fd88b43f5c74829f3578ae8f72ebe
