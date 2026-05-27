@@ -1,10 +1,6 @@
 {
   "_meta": {
-<<<<<<< HEAD
-    "generated_at": "2026-05-27 14:14 PT",
-=======
-    "generated_at": "2026-05-27 14:11 PT",
->>>>>>> 37be76864446fc9acd658725199288dc54b06570
+    "generated_at": "2026-05-27 14:33 PT",
     "window": "today since 8 AM PT (or yesterday 8 AM PT \u2192 today 8 AM PT if current time < 8 AM PT)",
     "source": "RingCentral call-log API, outbound voice"
   },
@@ -19,7 +15,7 @@
     "4086249818": 0,
     "4088865831": 12,
     "4088865852": 0,
-    "8182063729": 37,
+    "8182063729": 39,
     "8186435978": 59,
     "2132917813": 0,
     "2136313999": 0,
