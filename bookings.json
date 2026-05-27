@@ -2,7 +2,7 @@
   "_meta": {
     "report_id": "00O3r000006rTyXEAU",
     "report_name": "Leads Booked Today",
-    "generated_at": "2026-05-27 16:28:33 PDT",
+    "generated_at": "2026-05-27 16:33:30 PDT",
     "source": "Salesforce Lightning report (auto-scraped)",
     "total_records": 24
   },
@@ -10,11 +10,10 @@
     "Clark Mascapac": 5,
     "Don Codes": 5,
     "Alfredo Visellas": 3,
+    "Marketing User": 3,
     "Sienna Sepida": 3,
     "Diana Manaligod": 2,
-    "Marketing User": 2,
     "Richard Tamoush": 2,
-    "Carla Espinoza": 1,
-    "Unassigned": 1
+    "Carla Espinoza": 1
   }
 }
