@@ -2,19 +2,18 @@
   "_meta": {
     "report_id": "00O3r000006rTyXEAU",
     "report_name": "Leads Booked Today",
-    "generated_at": "2026-05-27 21:57:36 PDT",
-    "source": "Salesforce Lightning report (auto-scraped)",
-    "total_records": 30
+    "generated_at": "2026-05-28T06:17:21.264Z",
+    "source": "Salesforce LeadHistory via ringcx-sf-webhook",
+    "total_records": 25
   },
   "booked_today": {
-    "Clark Mascapac": 8,
-    "Don Codes": 6,
-    "Alfredo Visellas": 4,
-    "Diana Manaligod": 3,
-    "Sienna Sepida": 3,
-    "Marketing User": 2,
+    "Diana manaligod": 2,
+    "Clark Mascapac": 7,
+    "Don Codes": 5,
+    "Ameco SF": 2,
+    "Alfredo Visellas": 5,
+    "Sienna Sepida": 1,
     "Richard Tamoush": 2,
-    "Carla Espinoza": 1,
-    "Unassigned": 1
+    "Carla Espinoza": 1
   }
 }
