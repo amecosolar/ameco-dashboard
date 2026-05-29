@@ -1,16 +1,10 @@
 {
   "_meta": {
-<<<<<<< HEAD
-    "generated_at": "2026-05-29 00:39 PT",
-    "window": "today since 8 AM PT (or yesterday 8 AM PT \u2192 today 8 AM PT if current time < 8 AM PT)",
-    "source": "RingCentral call-log API, outbound voice"
-=======
-    "generated_at": "2026-05-29T07:36:17.947Z",
+    "generated_at": "2026-05-29T07:59:22.357Z",
     "window_from": "2026-05-29T07:00:00.000Z",
-    "window_to": "2026-05-29T07:36:17.724Z",
+    "window_to": "2026-05-29T07:59:22.129Z",
     "source": "RingCentral call-log API via ringcx-sf-webhook",
     "total_calls": 0
->>>>>>> 51430048eb02c4488dfeaffe0eba70f53bc3de8e
   },
   "calls_today": {}
 }
