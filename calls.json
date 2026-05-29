@@ -1,10 +1,13 @@
 {
   "_meta": {
-    "generated_at": "2026-05-29T13:38:28.457Z",
+    "generated_at": "2026-05-29T15:30:59.705Z",
     "window_from": "2026-05-29T07:00:00.000Z",
-    "window_to": "2026-05-29T13:38:28.334Z",
+    "window_to": "2026-05-29T15:30:59.590Z",
     "source": "RingCentral call-log API via ringcx-sf-webhook",
-    "total_calls": 0
+    "total_calls": 2
   },
-  "calls_today": {}
+  "calls_today": {
+    "8186598912": 1,
+    "7148814273": 1
+  }
 }
