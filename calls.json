@@ -1,8 +1,8 @@
 {
   "_meta": {
-    "generated_at": "2026-06-13T04:06:32.445Z",
+    "generated_at": "2026-06-13T06:29:46.424Z",
     "window_from": "2026-06-12T07:00:00.000Z",
-    "window_to": "2026-06-13T04:06:29.471Z",
+    "window_to": "2026-06-13T06:29:45.372Z",
     "source": "RingCentral call-log API via ringcx-sf-webhook",
     "total_calls": 1492
   },
