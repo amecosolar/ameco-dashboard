@@ -3,13 +3,15 @@
     "report_id": "00O3r000006rTyXEAU",
     "report_name": "Leads Booked Today",
     "window": "TODAY",
-    "generated_at": "2026-06-18T23:00:01.465Z",
+    "generated_at": "2026-06-19T00:00:02.078Z",
     "source": "Salesforce LeadHistory + Lead.Lead_Booked_By__c via ringcx-sf-webhook",
-    "total_records": 11
+    "total_records": 14
   },
   "booked_today": {
     "Clark Mascapac": 7,
     "Richard Tamoush": 3,
-    "Marketing User": 1
+    "Marketing User": 1,
+    "Sienna Sepida": 1,
+    "Alfredo Visellas": 2
   }
 }
