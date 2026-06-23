@@ -3,9 +3,12 @@
     "report_id": "00O3r000006rTyXEAU",
     "report_name": "Leads Booked Today",
     "window": "TODAY",
-    "generated_at": "2026-06-23T15:30:48.317Z",
+    "generated_at": "2026-06-23T16:00:01.066Z",
     "source": "Salesforce LeadHistory + Lead.Lead_Booked_By__c via ringcx-sf-webhook",
-    "total_records": 0
+    "total_records": 2
   },
-  "booked_today": {}
+  "booked_today": {
+    "Alfredo Visellas": 1,
+    "Don Codes": 1
+  }
 }
