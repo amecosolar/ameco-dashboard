@@ -3,9 +3,9 @@
     "report_id": "00O3r000006rTyXEAU",
     "report_name": "Leads Booked Today",
     "window": "TODAY",
-    "generated_at": "2026-07-13T23:00:01.282Z",
+    "generated_at": "2026-07-14T00:00:01.391Z",
     "source": "Salesforce LeadHistory + Lead.Lead_Booked_By__c via ringcx-sf-webhook",
-    "total_records": 20
+    "total_records": 21
   },
   "booked_today": {
     "Diana manaligod": 4,
@@ -14,6 +14,7 @@
     "Clark Mascapac": 2,
     "Michael Toledo": 1,
     "Carla Espinoza": 1,
-    "Richard Tamoush": 1
+    "Richard Tamoush": 1,
+    "Unassigned (-1)": 1
   }
 }
