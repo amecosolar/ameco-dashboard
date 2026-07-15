@@ -3,12 +3,12 @@
     "report_id": "00O3r000006rTyXEAU",
     "report_name": "Leads Booked Today",
     "window": "TODAY",
-    "generated_at": "2026-07-15T01:00:01.169Z",
+    "generated_at": "2026-07-15T01:24:41.575Z",
     "source": "Salesforce LeadHistory + Lead.Lead_Booked_By__c via ringcx-sf-webhook",
-    "total_records": 26
+    "total_records": 27
   },
   "booked_today": {
-    "Alfredo Visellas": 8,
+    "Alfredo Visellas": 9,
     "Sienna Sepida": 6,
     "Diana manaligod": 2,
     "Don Codes": 3,
