@@ -3,16 +3,17 @@
     "report_id": "00O3r000006rTyXEAU",
     "report_name": "Leads Booked Today",
     "window": "TODAY",
-    "generated_at": "2026-07-27T18:00:02.287Z",
+    "generated_at": "2026-07-27T20:00:01.823Z",
     "source": "Salesforce LeadHistory + Lead.Lead_Booked_By__c via ringcx-sf-webhook",
-    "total_records": 11
+    "total_records": 15
   },
   "booked_today": {
-    "Don Codes": 3,
+    "Clark Mascapac": 3,
+    "Don Codes": 4,
     "Unassigned (-1)": 3,
     "Diana manaligod": 2,
     "Marketing User": 1,
     "Alfredo Visellas": 1,
-    "Clark Mascapac": 1
+    "Sienna Sepida": 1
   }
 }
