@@ -3,7 +3,7 @@
     "report_id": "00O3r000006rTyXEAU",
     "report_name": "Leads Booked Today",
     "window": "TODAY",
-    "generated_at": "2026-07-28T21:56:38.972Z",
+    "generated_at": "2026-07-28T22:00:01.650Z",
     "source": "Salesforce LeadHistory + Lead.Lead_Booked_By__c via ringcx-sf-webhook",
     "total_records": 23
   },
